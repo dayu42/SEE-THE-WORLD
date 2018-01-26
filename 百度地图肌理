@@ -1,0 +1,49 @@
+[
+{
+"featureType": "poi",
+"elementType": "all",
+"stylers": {
+"visibility": "off"
+}
+},
+{
+"featureType": "building",
+"elementType": "all",
+"stylers": {
+"color": "#000000"
+}
+},
+{
+"featureType": "local",
+"elementType": "labels",
+"stylers": {
+"visibility": "off"
+}
+},
+{
+"featureType": "subway",
+"elementType": "all",
+"stylers": {
+"visibility": "off"
+}
+},
+{
+"featureType": "arterial",
+"elementType": "labels",
+"stylers": {
+"visibility": "off"
+}
+},
+{
+"featureType": "manmade",
+"elementType": "all",
+"stylers": {
+"visibility": "off"
+}
+},
+{
+"featureType": "building",
+"elementType": "all",
+"stylers": {}
+}
+]
